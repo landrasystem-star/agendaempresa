@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "fecha": "2024-01-01",
+  "contactos": [
+    { "nombre": "🏢 RECEPCION", "telefono": "+34911234567", "email": "recepcion@empresa.com", "emergencia": true },
+    { "nombre": "👨‍💼 RRHH", "telefono": "+34911234568", "email": "rrhh@empresa.com", "emergencia": true },
+    { "nombre": "🚨 SEGURIDAD", "telefono": "+34911234569", "email": "seguridad@empresa.com", "emergencia": true },
+    { "nombre": "🏗️ OFICINA TECNICA", "telefono": "+34911234570", "email": "tecnica@empresa.com", "emergencia": false },
+    { "nombre": "🔧 MANTENIMIENTO", "telefono": "+34911234571", "email": "mantenimiento@empresa.com", "emergencia": false },
+    { "nombre": "📋 ADMINISTRACION", "telefono": "+34911234572", "email": "admin@empresa.com", "emergencia": false },
+    { "nombre": "💻 INFORMATICA", "telefono": "+34911234573", "email": "informatica@empresa.com", "emergencia": false },
+    { "nombre": "📱 JEFE DE OBRA", "telefono": "+34600111222", "email": "jefe.obra@empresa.com", "emergencia": true },
+    { "nombre": "📱 ENCARGADO", "telefono": "+34600333444", "email": "encargado@empresa.com", "emergencia": false },
+    { "nombre": "📱 RRHH MOVIL", "telefono": "+34600555666", "email": "rrhh.movil@empresa.com", "emergencia": false },
+    { "nombre": "📱 SEGURIDAD MOVIL", "telefono": "+34600777888", "email": "seguridad.movil@empresa.com", "emergencia": false },
+    { "nombre": "🚒 BOMBEROS", "telefono": "112", "email": "bomberos@emergencias.es", "emergencia": true },
+    { "nombre": "🚑 AMBULANCIA", "telefono": "112", "email": "ambulancia@emergencias.es", "emergencia": true },
+    { "nombre": "🏥 HOSPITAL", "telefono": "+34911234599", "email": "hospital@salud.es", "emergencia": true },
+    { "nombre": "👮 POLICIA", "telefono": "112", "email": "policia@seguridad.es", "emergencia": true }
+  ]
+}
